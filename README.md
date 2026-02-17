@@ -1,9 +1,10 @@
 ## Hi there 👋
 
 I'm Ludovico, a Statistics graduate and MSc Data Science student from Italy.
-<!--
-**ludovicopiras/ludovicopiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!--
+**ludovico
+piras/ludovicopiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
