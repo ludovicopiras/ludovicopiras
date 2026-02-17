@@ -1,6 +1,11 @@
-## Hi there 👋
 
-I'm Ludovico, a Statistics graduate and MSc Data Science student from Italy.
+# Hi, I’m Ludovico 
+
+MSc Data Science student with a statistics background.  
+Here I collect notes, small experiments, and course projects.
+
+**Tools:** R • Python • SQL  
+**LinkedIn:** https://www.linkedin.com/in/ludovico-piras-615a432b8/
 
 <!--
 **ludovico
